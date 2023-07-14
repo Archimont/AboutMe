@@ -1,6 +1,7 @@
 Controllery písané v cpp som nenašiel v počítači.
 
 Projekt ZadaniePizza slúžil na zápočet z predmetu OOP.
+
 Funkcionalita:
 * Obsahuje sklad s ingredienciami a receptami na pizzu alebo samostatne predateľnými položkami.
 * Vo všetkých zoznamoch dokážeme vyhľadávať podľa textu.
