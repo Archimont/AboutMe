@@ -1,4 +1,4 @@
-# Controllery písané v cpp som nenašiel v počítači.
+### Controllery písané v cpp som nenašiel v počítači.
 
 # Projekt ZadaniePizza slúžil na zápočet z predmetu OOP.
 
