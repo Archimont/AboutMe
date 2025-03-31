@@ -1,4 +1,6 @@
-### Controllery písané v cpp som nenašiel v počítači.
+# Projekt skuskaOOP bola skúška z predmetu OOP. 
+
+### Funkcionalita:
 
 # Projekt ZadaniePizza slúžil na zápočet z predmetu OOP.
 
