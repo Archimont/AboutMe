@@ -1,3 +1,12 @@
+# Vizualizácia hlbokých matematických štruktúr pre hlboké učenie (Error_surface_vis.ipynb)
+
+### Funkcionalita:
+Cieľom prace je vizualizácia chybového priestoru,
+zobrazenie vzťahu medzi chybou v chybovom priestore a aktiváciami neurónou.
+S implementáciou vysvetľovacieho mechanizmu pre spracovanie obrazových dát.
+
+### Funkcionalita:
+
 # Projekt skuskaOOP bola skúška z predmetu OOP. 
 
 ### Funkcionalita:
