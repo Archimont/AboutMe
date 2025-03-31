@@ -5,9 +5,6 @@ Cieľom prace je vizualizácia chybového priestoru,
 zobrazenie vzťahu medzi chybou v chybovom priestore a aktiváciami neurónou.
 S implementáciou vysvetľovacieho mechanizmu pre spracovanie obrazových dát.
 
-# Projekt skuskaOOP bola skúška z predmetu OOP. 
-
-### Funkcionalita:
 
 # Projekt ZadaniePizza slúžil na zápočet z predmetu OOP.
 
@@ -24,6 +21,7 @@ S implementáciou vysvetľovacieho mechanizmu pre spracovanie obrazových dát.
 
 Logiku projektu ako názvy tried a metod nám dodal učiteľ. Pri pridávaní ingredientu a pizze je potrebné dodržiavať format taký, aký je v csv súbore zoznamPoloziek. Ktorý sa nachádza v "ZadaniePizza\ZadaniePizza\Pizzeria\bin\Debug". Pri vyhľadaní pizze alebo chrumiek treba písať celý názov, pretože sa vyberá prvá položka v zozname. Projektový súbor sa nachádza v "ZadaniePizza\ZadaniePizza\Pizzeria.csproj".
 
+
 # Projekt skuskaOOP bola skúška z predmetu OOP. 
 
 ### Funkcionalita:
@@ -33,6 +31,7 @@ Logiku projektu ako názvy tried a metod nám dodal učiteľ. Pri pridávaní in
 * Spoje dokážeme vyhľadávať pomocou názvu koncovej a štartovacej stanice
 
 Logiku projektu som vytváral ja. Ku projektu sme dostali iba zadanie. Vyhľadavanie staníc je optimalizované iba na malé písmo.
+
 
 # Zadanie EA(evolucne algoritmy) slúžilo na zápočet z predmetu EA.
 Zadanie EA bola úloha, kde sme potrebovali rozmiestniť drony so signálom po ZOO tak, aby sme použili čo najmenej dronov. a aby všetci návštevníci ZOO mali signál, pričom drony mali obmedzený rádius. V obrázku ktorý obsahuje ipynb. vidíme červeou rádius dronov, zelenou sú návštevníci ZOO, čiernou je pozemok ZOO.
