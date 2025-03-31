@@ -19,7 +19,7 @@ S implementáciou vysvetľovacieho mechanizmu pre spracovanie obrazových dát.
 * Čítanie informácií o aktuálnom stave v sklade z csv súboru.
 * Ukladanie informácií o aktuálnom stave v sklade do csv súboru.
 
-Logiku projektu ako názvy tried a metod nám dodal učiteľ. Pri pridávaní ingredientu a pizze je potrebné dodržiavať format taký, aký je v csv súbore zoznamPoloziek. Ktorý sa nachádza v "ZadaniePizza\ZadaniePizza\Pizzeria\bin\Debug". Pri vyhľadaní pizze alebo chrumiek treba písať celý názov, pretože sa vyberá prvá položka v zozname. Projektový súbor sa nachádza v "ZadaniePizza\ZadaniePizza\Pizzeria.csproj".
+Pri pridávaní ingredientu a pizze je potrebné dodržiavať format taký, aký je v csv súbore zoznamPoloziek. Ktorý sa nachádza v "ZadaniePizza\ZadaniePizza\Pizzeria\bin\Debug". Pri vyhľadaní pizze alebo chrumiek treba písať celý názov, pretože sa vyberá prvá položka v zozname. Projektový súbor sa nachádza v "ZadaniePizza\ZadaniePizza\Pizzeria.csproj".
 
 
 # Projekt skuskaOOP bola skúška z predmetu OOP. 
@@ -30,7 +30,7 @@ Logiku projektu ako názvy tried a metod nám dodal učiteľ. Pri pridávaní in
 * Spoje dokážeme editovať.
 * Spoje dokážeme vyhľadávať pomocou názvu koncovej a štartovacej stanice
 
-Logiku projektu som vytváral ja. Ku projektu sme dostali iba zadanie. Vyhľadavanie staníc je optimalizované iba na malé písmo.
+Vyhľadavanie staníc je optimalizované iba na malé písmo.
 
 
 # Zadanie EA(evolucne algoritmy) slúžilo na zápočet z predmetu EA.
